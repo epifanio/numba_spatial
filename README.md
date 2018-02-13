@@ -4,7 +4,7 @@
 Compile with:
 
 ```
-python3.6 precomp.py
+python3.6 nbspatial_src.py
 ```
 
 ## Example:
