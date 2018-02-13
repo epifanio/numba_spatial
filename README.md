@@ -9,7 +9,7 @@ python3.6 precomp.py
 
 ## Example:
 
-```
+```python
 import nbspatial
 import numpy as np
 lenpoly = 10000
