@@ -18,4 +18,5 @@ polygon = np.array([[np.sin(x)+0.5,np.cos(x)+0.5] for x in np.linspace(0,2*np.pi
 N = 1000000
 points = zip(np.random.random(N),np.random.random(N))
 result = [nbspatial.ray_tracing(point[0], point[1], polygon) for point in points]
+# result=get_spatial_selection_cpu=get_spatial_selection_cpu(points,polygon)
 ```
