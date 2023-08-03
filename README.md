@@ -1,5 +1,6 @@
 # numba_spatial
 
+[![DOI](https://zenodo.org/badge/121392336.svg)](https://zenodo.org/badge/latestdoi/121392336)
 
 Compile with:
 
